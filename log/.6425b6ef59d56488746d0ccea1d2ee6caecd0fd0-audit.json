@@ -1,0 +1,49 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "log/.6425b6ef59d56488746d0ccea1d2ee6caecd0fd0-audit.json",
+    "files": [
+        {
+            "date": 1541441773116,
+            "name": "log/error-2018-11-05-12.log",
+            "hash": "997ef70abd1ea455381776f64d436eb4"
+        },
+        {
+            "date": 1541446054987,
+            "name": "log/error-2018-11-05-13.log",
+            "hash": "8d0391a6d81c7dfa0b4a7d47143b5d36"
+        },
+        {
+            "date": 1541448493931,
+            "name": "log/error-2018-11-05-14.log",
+            "hash": "f308fb6bf12abc326fd96493bd1ebb71"
+        },
+        {
+            "date": 1541451781460,
+            "name": "log/error-2018-11-05-15.log",
+            "hash": "0b0f4c856955efb1fe286db7ddf76db1"
+        },
+        {
+            "date": 1541456508511,
+            "name": "log/error-2018-11-05-16.log",
+            "hash": "8eab6d9e9835e298e05529ff6b62ab86"
+        },
+        {
+            "date": 1541461120240,
+            "name": "log/error-2018-11-05-17.log",
+            "hash": "01d22bb67efd7e9234cb4199aa243994"
+        },
+        {
+            "date": 1541462888467,
+            "name": "log/error-2018-11-05-18.log",
+            "hash": "55112ea7dddde61d86b9ad4324fe3da8"
+        },
+        {
+            "date": 1541466012785,
+            "name": "log/error-2018-11-05-19.log",
+            "hash": "069a4ae62f2950b31d15c86ae17405b8"
+        }
+    ]
+}
